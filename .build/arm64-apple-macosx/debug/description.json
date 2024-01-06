@@ -1,0 +1,342 @@
+{
+  "builtTestProducts" : [
+    {
+      "binaryPath" : "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/.build/arm64-apple-macosx/debug/TaskManagerPackagePackageTests.xctest/Contents/MacOS/TaskManagerPackagePackageTests",
+      "productName" : "TaskManagerPackagePackageTests"
+    }
+  ],
+  "copyCommands" : {
+
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.TaskManagerPackage-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/.build/arm64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/Sources/TaskManagerPackage/ITaskManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/Sources/TaskManagerPackage/OrderedTaskManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/Sources/TaskManagerPackage/TaskManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/Sources/TaskManagerPackage/Tasks.swift"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "TaskManagerPackage",
+      "moduleOutputPath" : "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/.build/arm64-apple-macosx/debug/TaskManagerPackage.swiftmodule",
+      "objects" : [
+        "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/.build/arm64-apple-macosx/debug/TaskManagerPackage.build/ITaskManager.swift.o",
+        "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/.build/arm64-apple-macosx/debug/TaskManagerPackage.build/OrderedTaskManager.swift.o",
+        "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/.build/arm64-apple-macosx/debug/TaskManagerPackage.build/TaskManager.swift.o",
+        "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/.build/arm64-apple-macosx/debug/TaskManagerPackage.build/Tasks.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-swift-version",
+        "5",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j10",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/.build/arm64-apple-macosx/debug/TaskManagerPackage.build/TaskManagerPackage-Swift.h",
+        "-color-diagnostics",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/.build/arm64-apple-macosx/debug/TaskManagerPackage.build/ITaskManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/.build/arm64-apple-macosx/debug/TaskManagerPackage.build/OrderedTaskManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/.build/arm64-apple-macosx/debug/TaskManagerPackage.build/TaskManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/.build/arm64-apple-macosx/debug/TaskManagerPackage.build/Tasks.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/.build/arm64-apple-macosx/debug/TaskManagerPackage.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/Sources/TaskManagerPackage/ITaskManager.swift",
+        "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/Sources/TaskManagerPackage/OrderedTaskManager.swift",
+        "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/Sources/TaskManagerPackage/TaskManager.swift",
+        "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/Sources/TaskManagerPackage/Tasks.swift"
+      ],
+      "tempsPath" : "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/.build/arm64-apple-macosx/debug/TaskManagerPackage.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.TaskManagerPackageTests-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/.build/arm64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/Tests/TaskManagerPackageTests/ImportantTaskTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/Tests/TaskManagerPackageTests/TaskManagerTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/Tests/TaskManagerPackageTests/TaskTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/.build/arm64-apple-macosx/debug/TaskManagerPackage.swiftmodule"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "TaskManagerPackageTests",
+      "moduleOutputPath" : "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/.build/arm64-apple-macosx/debug/TaskManagerPackageTests.swiftmodule",
+      "objects" : [
+        "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/.build/arm64-apple-macosx/debug/TaskManagerPackageTests.build/ImportantTaskTests.swift.o",
+        "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/.build/arm64-apple-macosx/debug/TaskManagerPackageTests.build/TaskManagerTests.swift.o",
+        "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/.build/arm64-apple-macosx/debug/TaskManagerPackageTests.build/TaskTests.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx13.0",
+        "-swift-version",
+        "5",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j10",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-color-diagnostics",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/.build/arm64-apple-macosx/debug/TaskManagerPackageTests.build/ImportantTaskTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/.build/arm64-apple-macosx/debug/TaskManagerPackageTests.build/TaskManagerTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/.build/arm64-apple-macosx/debug/TaskManagerPackageTests.build/TaskTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/.build/arm64-apple-macosx/debug/TaskManagerPackageTests.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/Tests/TaskManagerPackageTests/ImportantTaskTests.swift",
+        "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/Tests/TaskManagerPackageTests/TaskManagerTests.swift",
+        "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/Tests/TaskManagerPackageTests/TaskTests.swift"
+      ],
+      "tempsPath" : "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/.build/arm64-apple-macosx/debug/TaskManagerPackageTests.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "TaskManagerPackage" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "TaskManagerPackage",
+      "-incremental",
+      "-c",
+      "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/Sources/TaskManagerPackage/ITaskManager.swift",
+      "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/Sources/TaskManagerPackage/OrderedTaskManager.swift",
+      "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/Sources/TaskManagerPackage/TaskManager.swift",
+      "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/Sources/TaskManagerPackage/Tasks.swift",
+      "-I",
+      "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/.build/arm64-apple-macosx/debug",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-swift-version",
+      "5",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-g",
+      "-j10",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/.build/arm64-apple-macosx/debug/TaskManagerPackage.build/TaskManagerPackage-Swift.h",
+      "-color-diagnostics",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "TaskManagerPackageTests" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "TaskManagerPackageTests",
+      "-incremental",
+      "-c",
+      "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/Tests/TaskManagerPackageTests/ImportantTaskTests.swift",
+      "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/Tests/TaskManagerPackageTests/TaskManagerTests.swift",
+      "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/Tests/TaskManagerPackageTests/TaskTests.swift",
+      "-I",
+      "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/.build/arm64-apple-macosx/debug",
+      "-target",
+      "arm64-apple-macosx13.0",
+      "-swift-version",
+      "5",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-g",
+      "-j10",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-color-diagnostics",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "TaskManagerPackage" : [
+
+    ],
+    "TaskManagerPackageTests" : [
+      "TaskManagerPackage"
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "": {
+    "swift-dependencies": "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/.build/arm64-apple-macosx/debug/TaskManagerPackage.build/master.swiftdeps"
+  },
+  "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/Sources/TaskManagerPackage/ITaskManager.swift": {
+    "dependencies": "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/.build/arm64-apple-macosx/debug/TaskManagerPackage.build/ITaskManager.d",
+    "object": "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/.build/arm64-apple-macosx/debug/TaskManagerPackage.build/ITaskManager.swift.o",
+    "swiftmodule": "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/.build/arm64-apple-macosx/debug/TaskManagerPackage.build/ITaskManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/.build/arm64-apple-macosx/debug/TaskManagerPackage.build/ITaskManager.swiftdeps"
+  },
+  "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/Sources/TaskManagerPackage/OrderedTaskManager.swift": {
+    "dependencies": "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/.build/arm64-apple-macosx/debug/TaskManagerPackage.build/OrderedTaskManager.d",
+    "object": "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/.build/arm64-apple-macosx/debug/TaskManagerPackage.build/OrderedTaskManager.swift.o",
+    "swiftmodule": "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/.build/arm64-apple-macosx/debug/TaskManagerPackage.build/OrderedTaskManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/.build/arm64-apple-macosx/debug/TaskManagerPackage.build/OrderedTaskManager.swiftdeps"
+  },
+  "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/Sources/TaskManagerPackage/TaskManager.swift": {
+    "dependencies": "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/.build/arm64-apple-macosx/debug/TaskManagerPackage.build/TaskManager.d",
+    "object": "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/.build/arm64-apple-macosx/debug/TaskManagerPackage.build/TaskManager.swift.o",
+    "swiftmodule": "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/.build/arm64-apple-macosx/debug/TaskManagerPackage.build/TaskManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/.build/arm64-apple-macosx/debug/TaskManagerPackage.build/TaskManager.swiftdeps"
+  },
+  "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/Sources/TaskManagerPackage/Tasks.swift": {
+    "dependencies": "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/.build/arm64-apple-macosx/debug/TaskManagerPackage.build/Tasks.d",
+    "object": "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/.build/arm64-apple-macosx/debug/TaskManagerPackage.build/Tasks.swift.o",
+    "swiftmodule": "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/.build/arm64-apple-macosx/debug/TaskManagerPackage.build/Tasks~partial.swiftmodule",
+    "swift-dependencies": "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/.build/arm64-apple-macosx/debug/TaskManagerPackage.build/Tasks.swiftdeps"
+  }
+}

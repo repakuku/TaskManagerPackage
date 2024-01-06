@@ -1,0 +1,4 @@
+module TaskManagerPackage {
+    header "/Users/repakuku/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/Pet Projects/TaskManagerPackage/.build/arm64-apple-macosx/debug/TaskManagerPackage.build/TaskManagerPackage-Swift.h"
+    requires objc
+}
